@@ -1,4 +1,4 @@
-package ch.dd.code;
+package ch.dd.interview;
 
 /**
  *  - Describe every lines
@@ -6,7 +6,7 @@ package ch.dd.code;
  *  - What does it show?
  *
  */
-public class Interview1 {
+public class Integers {
 
 	public static void main(String[] args) {
 		check(1, 2);
