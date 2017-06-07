@@ -4,7 +4,7 @@ package ch.dd.interview;
  *  - Describe every lines
  *  - Does it compile? Why?
  *  - What does it show?
- *
+ *   - Explain
  */
 public class Integers {
 

@@ -6,7 +6,6 @@ package ch.dd.interview;
  *  - What does it show?
  *  - Explain differences between B1 and B2 
  *  - which one is better?
- *  
  */
 public class BlackWhite {
 	public class A {
