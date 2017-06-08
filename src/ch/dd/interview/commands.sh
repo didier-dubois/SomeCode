@@ -1,10 +1,10 @@
 #!/bin/sh
 
-# Syntaxe de find > grep dans un fichier?
+# find syntaxe  / how to grep a file?
 find .  .....
 
-# Que fait cette commande?
+# What this command is doing?
 [ $? -eq 1 ] && ps
 
-# comment compter toutes les lignes "ERROR" dans tous les fichiers *.log
+# Count all "ERROR" lines in all *.log files
 
