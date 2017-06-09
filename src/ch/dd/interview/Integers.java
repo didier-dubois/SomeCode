@@ -20,7 +20,4 @@ public class Integers {
 		Integer v = j;
 		System.out.println(i + ": " + (u==v));
 	}
-	
-	
-
 }

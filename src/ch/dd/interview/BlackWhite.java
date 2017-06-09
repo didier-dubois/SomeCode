@@ -33,6 +33,4 @@ public class BlackWhite {
 		System.out.println(b1.getValue());
 		System.out.println(b2.getValue());
 	}
-	
-
 }
